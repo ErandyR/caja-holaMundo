@@ -1,0 +1,16 @@
+.hola{
+  width: 200px;
+  height: 60px;
+  padding-top: 40px;
+  padding-right: 20px;
+  padding-bottom: 70px;
+  padding-left: 100px;
+  border-top: 20px solid #BBECF6;
+  border-right: 10px solid #BBECF6;
+  border-bottom: 20px solid #BBECF6;
+  border-left: 10px solid #BBECF6;
+  margin-top: 120px;
+  margin-right: 60px;
+  margin-bottom: 30.5px;
+  margin-left: 60px;
+}
